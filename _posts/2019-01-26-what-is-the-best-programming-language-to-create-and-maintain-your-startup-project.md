@@ -57,10 +57,10 @@ many websites build with PHP or Ruby when they suck at performance?
 
 But there is something that we have to consider: _Speed is not everything_.
 You don't need to use the best language in order to create your startup. Because
-they take so much time and afford from your programmers. You just need to product
+they take so much time and afford from your programmers. You just need to produce
 an MVP version so that people can give you feedback! And also using high-level
-languages like PHP or Python is much more simpler and cheaper and faster. So you
-can build your startup in less time!
+languages like PHP or Python is much more simpler, cheaper, and faster to develop.
+So you can build your startup in less time!
 
 After you get the feedback from users and you're sure that your startup is going to
 be successful, you can think of changing the main language of the project.
@@ -74,14 +74,14 @@ So at this moment I ask myself, why there are so many famous websites that despi
 their certain success, haven't used a better languages and are keep using the same
 language so far?
 
-For example Facebook is build with PHP and it's still using PHP as the main back-end
-language when they can use better languages instead of PHP?
+For example Facebook is built with PHP and it's still using PHP as the main back-end
+language. Why don't they change the language?
 
 I can think of some reasons:
 
 First, changing the main language is too risky and developers may come up with
 some weird errors. You can maintain new services of your project with new languages
-and still keep the main language.
+and still keep the language of the main service.
 
 Second, it's too expensive for the company to hire expert developers to re-write
 the whole project with the new language so that it can respond just like before
@@ -89,3 +89,8 @@ but faster.
 
 They can easily spend that money improving their servers! In this way, they are
 making the app faster without any losses.
+
+Resources:
+
+[REST API: Node vs Rust](https://medium.com/sean3z/rest-api-node-vs-rust-c75aa8c96343)
+[Famous Websites Build With Python](https://www.quickstart.com/blog/10-famous-websites-built-with-python/)
