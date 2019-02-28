@@ -93,4 +93,5 @@ making the app faster without any losses.
 Resources:
 
 [REST API: Node vs Rust](https://medium.com/sean3z/rest-api-node-vs-rust-c75aa8c96343)
+
 [Famous Websites Build With Python](https://www.quickstart.com/blog/10-famous-websites-built-with-python/)
