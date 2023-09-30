@@ -1,13 +1,13 @@
 # Site settings
-title:       Matin Kaboli
-email:       matinkaboli@aol.com
-author:      Matin Kaboli
+title: Matin Kaboli
+email: matinkaboli@aol.com
+author: Matin Kaboli
 description: "My Personal Blog"
-baseurl:     ""
-url:         "http://matinkaboli.ir"
+baseurl: ""
+url: "https://matink.me"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
+  - about.md
 
 # Google services
 google_verification:
@@ -19,10 +19,10 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
-show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    false
+animated: false
+show_related_posts: false
+show_post_footers: false
+show_social_icons: false
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -37,7 +37,7 @@ fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: http-matinkaboli-ir
+disqus_shortname: https-matink-me
 
 # txtpen post comments
 # (leave blank to disable txtpen)
@@ -45,28 +45,27 @@ txtpen_sitename:
 
 # Social icons
 github_username: "matinkaboli"
-twitter_username: "matin_kaboli"
+twitter_username: "matin_ka"
 telegram_username: "matinkaboli"
-
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: "Newer"
+    older: "Older"
   post:
-    updated:        'Updated'
-    minute_read:    'minute read'
-    related_posts:  'Related Posts'
+    updated: "Updated"
+    minute_read: "minute read"
+    related_posts: "Related Posts"
   index:
-    coming_soon: 'Coming soon...'
-  og_locale: 'en_US'
+    coming_soon: "Coming soon..."
+  og_locale: "en_US"
 
 # Build settings
-markdown:     kramdown
+markdown: kramdown
 redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     4
+  extensions: ["smart", "tables", "with_toc_data"]
+permalink: pretty
+paginate: 4
 sass:
   style: compressed
 plugins:
