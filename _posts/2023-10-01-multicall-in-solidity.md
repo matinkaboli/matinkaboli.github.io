@@ -242,6 +242,16 @@ the modifier is worth the inconvenience of limited usability in certain scenario
 Finding the right balance between security and functionality is
 a key aspect of designing robust smart contracts.
 
+### The downside
+
+There is a trade-off with this approach: users will need to call the multicall for
+every transaction associated with functions featuring the nonETHReuse modifier.
+This necessity arises from the fact that after a direct call to these functions,
+the `_status` is set to `ENTERED`, causing subsequent direct calls to revert.
+It's important to note that checking the `_status` before executing a transaction
+is not a practical solution, as it can be vulnerable to front-running,
+where malicious actors exploit transaction order to their advantage.
+
 ## Conclusion
 
 In conclusion, addressing vulnerabilities in smart contract development is a nuanced and evolving process.
