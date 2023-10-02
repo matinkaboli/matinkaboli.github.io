@@ -272,3 +272,8 @@ offers valuable insights into how they successfully addressed it.
 Exploring their approach can provide additional perspective and guidance on handling
 vulnerabilities in smart contract development, reinforcing the importance of sharing
 knowledge and experiences within our community.
+
+I'd like to express my heartfelt gratitude to [Pashov](https://twitter.com/pashovkrum/)
+for their invaluable assistance in improving and refining this contract.
+Their insights and contributions have played a
+pivotal role in enhancing the contract's functionality and security.
