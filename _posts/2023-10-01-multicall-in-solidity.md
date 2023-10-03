@@ -266,7 +266,7 @@ adaptable, and collaborative, leveraging your understanding of the vulnerability
 as a springboard for developing robust and secure smart contracts.
 
 Furthermore, I highly recommend checking out Samczsun's insightful article titled
-"Two Rights Might Make a Wrong" at https://samczsun.com/two-rights-might-make-a-wrong/.
+["Two Rights Might Make a Wrong"](https://samczsun.com/two-rights-might-make-a-wrong/)
 In this article, Samczsun shares their experiences grappling with a similar issue and
 offers valuable insights into how they successfully addressed it.
 Exploring their approach can provide additional perspective and guidance on handling
